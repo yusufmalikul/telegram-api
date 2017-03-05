@@ -17,7 +17,7 @@ None at the moment. If you find any, feel free to [submit a PR](https://github.c
 
 * Enables you to anything supported by the Telegram Bot API: messages, stickers, location, inline bots and any other supported method via PHP to a Telegram user (either direct conversation, channel, group or supergroup).
 * Respects and implements the default types and methods made by Telegram itself. Have any doubts about any method? [Just check the original documentation](https://core.telegram.org/bots/api), this implementation will not differ too much.
-* Doesn't need any dependency, except for Guzzle, which you can inyect if you already use it elsewhere.
+* Doesn't need any dependency, except for Guzzle, which you can inject if you already use it elsewhere.
 * **Full** inline bots support!
 
 ## Installation
